@@ -2,7 +2,7 @@
 .header-strip {
 	background-color: black;
 	display: flex;
-	justify-content: space-around; /* space-arround or space-between? */
+	justify-content: space-around;
 }
 
 .custom-care {
@@ -429,8 +429,6 @@
 
 .gallery-top-buttons {
 	display:flex;
-	/*flex-direction: row;
-	justify-content: space-around*/
 }
 
 .gallery-button {
